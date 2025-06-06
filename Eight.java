@@ -9,13 +9,13 @@ public class Eight {
         System.out.println("Enter the second number");
         int n2 =sc.nextInt();
         int greatest = 1;
-        for (int i = 1; i<=n1;i++)
+        for (int i = 1; i<=Math.min(n1,n2);i++)
         {
             if (n1%i==0 && n2%i==0){
                 greatest = i;
             }
         }
-        System.out.println("the gcd of "+n1+"and"+n2+"is"+greatest);
+        System.out.println("the gcd of "+n1+" and "+n2+" is "+greatest);
 
 
     }
