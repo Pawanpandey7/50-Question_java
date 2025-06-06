@@ -16,17 +16,11 @@ public class Seven {
                     sum = sum + 1;
                 }
             }
-            if(sum<=2){
+            if(sum==2){
                 System.out.print(" "+ n1);
             }
             n1 = n1 + 1;
-            
         }
-        
-      
-        
-
     }
-
-    
+ 
 }
