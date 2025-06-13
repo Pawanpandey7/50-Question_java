@@ -14,5 +14,4 @@ public class Nine {
         }
         System.out.print(count);
     }
-    
 }

@@ -12,18 +12,11 @@ public class Eighteen{
         for(int i = n-1;i>=0;i--)
         {
             sum = sum + str.charAt(i);
-
         }
         if(sum.equals(str)){ 
             System.out.print("it is palindrome");
         }else{
             System.out.print("it is not palindrome");
         }
-
-
     }
-       
-        
-    
- 
 }

@@ -19,7 +19,4 @@ public class Eleven {
         }
         System.out.print("the greatest number in the list is "+greatest);
     }
-
-
-    
 }

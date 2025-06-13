@@ -16,8 +16,6 @@ public class Eight {
             }
         }
         System.out.println("the gcd of "+n1+" and "+n2+" is "+greatest);
-
-
     }
 
     

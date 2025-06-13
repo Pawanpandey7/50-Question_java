@@ -18,8 +18,8 @@ public class Six {
 
         }else{
             System.out.print("it is not an armstring number");
+            
         }
-    
     }
 
 
