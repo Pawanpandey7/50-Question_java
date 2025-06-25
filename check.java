@@ -11,8 +11,6 @@ public class check {
         list.add(2);
         list.remove(valueOf(2));
         System.out.print(list);
-        
-
     }
         
 }
