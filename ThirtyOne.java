@@ -15,5 +15,4 @@ class Parent{
         System.out.print("The factorial of "+n +" is "+Fact(n));
         
     }
-   
 }

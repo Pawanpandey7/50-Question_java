@@ -15,8 +15,5 @@ public class ThirtyFour{
     {
         int[] arr = {1,2,3};
         System.out.print(Sum_array(arr,0));
-
-
-
     }
 }

@@ -1,3 +1,4 @@
+//selection sort
 import java.util.*;
 public class TwentyFour{
     public static void main(String[] args)
@@ -16,7 +17,6 @@ public class TwentyFour{
                 }
             }
             Collections.swap(numbers,i,min);
-
         }
         System.out.print(numbers);
     }

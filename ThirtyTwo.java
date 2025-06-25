@@ -7,8 +7,6 @@ public class ThirtyTwo{
         {
             System.out.print(fibo(i)+" ");
         }
-
-        
     }
     public static int fibo(int n)
     {
@@ -23,5 +21,4 @@ public class ThirtyTwo{
             return fibo(n-1)+fibo(n-2);
         }
     }
-   
 }
